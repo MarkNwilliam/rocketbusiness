@@ -60,7 +60,7 @@ VECTARA_CORPUS_ID = os.getenv("1")
 VECTARA_API_KEY = os.getenv("zwt_CTeXX0UrDKzSp3v9FG-Vo0L6V8b5bmM5dMn9uQ")
 
 
-uri = "mongodb+srv://nkugwamarkwilliam:UJbXVgwpyPZ7I3Iu@cluster0.vndslyl.mongodb.net/?retryWrites=true&w=majority"
+uri = ""
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
